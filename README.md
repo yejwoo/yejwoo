@@ -1,4 +1,4 @@
-Hello! I'm Yejin Woo. I'm a frontned devolper who is interested in design, game and animation.  
+Hello! I'm Yejin Woo. I'm a devolper who is interested in design, game and animation.  
 I make webs and apps based on Javascript and like to learn new skills.
 
 
